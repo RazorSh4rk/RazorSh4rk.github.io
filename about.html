@@ -1,18 +1,106 @@
 ---
 layout: default
-title: "The high quality, completely customizable and 100% free blog template for Jekyll"
+title: ""
 description: ""
 ---
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
 
-<div class="about {% if site.scrollappear_enabled %}scrollappear{% endif %}">
-  <img src="{% asset 'about.jpg' @path %}" alt="About Nielsen Ramon header image" />
-  <h1>About me</h1>
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-    non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  </p>
-</div>
+    <script> hljs.initHighlightingOnLoad(); </script>
+</head>
+<body>
+<img src="razor_insert.png" style="width: 150px; margin: auto;"/>
+<pre><code>
+{
+    "name" : "Szabó Levente",
+    "alias" : "Razor",
+    "contact" : [
+        {"mail" : <a href="mailto: leventeszabo45@gmail.com">"click"</a>},
+        {"GitHub" : <a href='https://github.com/RazorSh4rk'>"click"</a>},
+        {"Linkedin" : <a href='https://www.linkedin.com/in/szab%C3%B3-levente-7b066710b/'>"click"</a>}
+    ],
+    "education" : [
+        {"university" : "University of Szeged, Comp Sci BSC"}
+    ],
+    "languages" : [
+        "Hungarian",
+        "English",
+        "German"
+    ],
+    "stack" : [
+        "Java",
+        "Scala",
+        "JavaScript",
+        "OCaml",
+        "MySQL",
+        "SQLite"
+    ],
+    "other tech" : [
+        "Haskell",
+        "Android",
+        "PL/SQL",
+        "VueJS"
+    ],
+    "experience" : [
+        {
+            "what" : "Scala developer",
+            "where" : <a href='https://qanplatform.com/'>"QAN"</a>,
+            "for" : "-"
+        },
+        {
+            "what" : "OCaml developer",
+            "where" : <a href='https://www.rhyno.tech/'>"Rhyno"</a>,
+            "for" : "1 year"
+        },
+        {
+            "what" : "Android developer",
+            "where" : <a href='https://zengo.eu/'>"Zengo"</a>,
+            "for" : "3 months"
+        },
+        {
+            "what" : "Frontend developer",
+            "where" : "SZTE TTIK HÖK Infoteam",
+            "for" : "1 year"
+        },
+        {
+            "what" : "Android developer",
+            "where" : "SZTE",
+            "for" : "5 months"
+        },
+        {
+            "what" : "Data analyst",
+            "where" : "SZTE MGK",
+            "for" : "1.5 years"
+        }
+    ],
+    "personal projects" : [
+        {
+            "name" : <a href="https://razorsh4rk.github.io/that-game-with-bullets-and-food/">"that game with bullets and food"</a>,
+            "description" : "Ludum Dare entry"
+        },
+        {
+            "name" : <a href="https://razorsh4rk.github.io/ColoRun/index.html">"RUN"</a>,
+            "description" : "Endless runner"
+        },
+        {
+            "name": <a href="https://github.com/RazorSh4rk/DrawJS">"DrawJS"</a>,
+            "description" : "Javascript canvas library"
+        },
+        {
+            "name" : <a href="https://github.com/RazorSh4rk/JNotes">"JNotes"</a>,
+            "description" : "Pinnable desktop notes"   
+        },
+        {
+            "name" : <a href="https://github.com/RazorSh4rk/OpenDucky">"OpenDucky"</a>,
+            "description" : "Open source RubberDucky clone"
+        }
+    ]
+}
+</code></pre>
+
+</body>
+</html>
