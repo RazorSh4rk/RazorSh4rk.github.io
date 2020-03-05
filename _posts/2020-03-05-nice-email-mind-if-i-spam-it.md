@@ -107,7 +107,7 @@ The regex is VERY simple, you could probably get a lot more hits with some tweak
 I won't show the emails i collected, with the first 500 pages of the api I already got 400+ addresses.
 I just want to shame [luonet](https://luonet.github.io), because what the hell is this?
 
-![???](2020-03-05-img/shame.png)
+![what](/assets/2020-03-05.png)
 
 --- 
 
