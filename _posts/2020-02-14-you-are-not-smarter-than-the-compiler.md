@@ -106,7 +106,5 @@ a coin N*N times.
 
 ---
 
-code:
-
-<script src="https://gist.github.com/RazorSh4rk/b54cec99acea0a4b4ae05f428f3e33a4.js"></script>
+[code](https://gist.github.com/RazorSh4rk/b54cec99acea0a4b4ae05f428f3e33a4)
 
