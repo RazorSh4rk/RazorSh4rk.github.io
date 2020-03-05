@@ -7,7 +7,7 @@ author: razor
 ---
 
 Hey I get it, your portfolio site turned out SUPER cool, and you only used like what,
-74 npm packages? Totally reasonble bro, those percentage gauges displaying your 82% html
+74 npm packages? Totally reasonable bro, those percentage gauges displaying your 82% html
 and 69% peepeepoopoo.js skills will absolutely catch everyone's eye and they will 
 totally wait the 30 seconds it takes your site to load.
 
@@ -104,7 +104,7 @@ could use `redis-cli --csv {command} >> out.csv`.
 The regex is VERY simple, you could probably get a lot more hits with some tweaking, it's just
 `val simpleEmailRegex = "mailto:.*.(\"|')>".r`. I'm not very good at coming up with regexes.
 
-I won't show the emails i collected, with the first 500 pages of the api I already got 400+ addresses.
+I won't show the emails I collected, with the first 500 pages of the api I already got 400+ addresses.
 I just want to shame [luonet](https://luonet.github.io), because what the hell is this?
 
 ![what](/assets/2020-03-05.png)
