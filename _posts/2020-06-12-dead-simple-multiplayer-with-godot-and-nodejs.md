@@ -14,7 +14,7 @@ Now those are fine, but the problem with a gdscript server is, you have to buy a
 
 Of course I made it in scal, but that one was kinda complicated and really only geared towards my specific game. I wanted to make one where I could prototype my game without needing to modify server code.
 
-Queue nodejs. I should have used python but I was lazy to look up websockets in Flask. The downside of a non-gdscript server is, that you either calculate all the physics on the server manually, or just let the client do the heavy lifting and only relay messages to the players. The second one sounds easier, so guess which one we will be making.
+Cue nodejs. I should have used python but I was lazy to look up websockets in Flask. The downside of a non-gdscript server is, that you either calculate all the physics on the server manually, or just let the client do the heavy lifting and only relay messages to the players. The second one sounds easier, so guess which one we will be making.
 
 ## Setup
 
