@@ -18,7 +18,7 @@ Cue nodejs. I should have used python but I was lazy to look up websockets in Fl
 
 ## Setup
 
-If you are on arch `pacman -S node npm && yay -S godot-bin`. If you are on another distro (or, God save you, Win*ows), just download all these things. next, make a 
+If you are on arch `pacman -S node npm && yay -S godot-bin`. If you are on another distro (or, God save you, Win*ows), just download all these things. Next, make a 
 
 ```
 game
@@ -83,11 +83,11 @@ We set the url to whatever was our server's address. The data is going to be our
 {% highlight gdscript %}
 func _on_data():
 	var payload = JSON.parse(ws.get_peer(1).get_packet().get_string_from_utf8()).result
+	for enemy in enemies:
+		enemy.queue_free()
+	enemies = []
 	for player in payload:
 		if player.id != data["id"]:
-			for enemy in enemies:
-				enemy.queue_free()
-			enemies = []
 			var e = enemy.instance()
 			e.position = Vector2(player["x"], player["y"])
 			enemies.append(e)
