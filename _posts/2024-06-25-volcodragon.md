@@ -56,6 +56,6 @@ I mean you can use any volcano nozzle i guess but I had really nice consistent f
 
 [clock](https://www.aliexpress.us/item/3256806034080733)
 
-{% video ../assets/print1.mp4 720 1280 %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bzcqtBv4nzc?si=nj70hEI6n2F0W37E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-{% video ../assets/print2.mp4 720 1280 %}
+<iframe width="388" height="690" src="https://www.youtube.com/embed/48qS4w9k2-U" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
