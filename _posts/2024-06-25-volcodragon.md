@@ -14,7 +14,7 @@ You either get something that doesn't cause you instant headache, or you get som
 
 Here is what I've been using on a quick little custom printer. I'll leave links for the parts but they get pulled often so you might need to do some digging.
 
-![rudy](../assets/rudy.jpg)
+![rudy](/assets/rudy.jpg)
 
 # Volcodragon
 
