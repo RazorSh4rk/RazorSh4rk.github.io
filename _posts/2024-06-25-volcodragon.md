@@ -22,7 +22,7 @@ Here is what I've been using on a quick little custom printer. I'll leave links 
 
 1) heater - $15
 
-![heater](../assets/heater.png)
+![heater](/assets/heater.png)
 
 The thing on the right, a volcano length ceramic heater with added metal for thermal mass, is going to be the star of the show. It heats up in seconds, has enough mass to retain that heat, and doesn't cool itself down if you extrude plastic in big bursts. If you can't use the links, search for either 3Dsway or Lerdge, they seem to be selling this part.
 
@@ -32,7 +32,7 @@ The thing on the right, a volcano length ceramic heater with added metal for the
 
 2) Heatbreak - $5
 
-![heatbreak](../assets/heatbreak.png)
+![heatbreak](/assets/heatbreak.png)
 
 Standard V6 style bimetal heatbreak, prevents creep and has a nice hex thing if you overtighten it, I've lost too many heatsinks to un-hexed ones.
 
@@ -40,7 +40,7 @@ Standard V6 style bimetal heatbreak, prevents creep and has a nice hex thing if 
 
 3) Heatsink - $10
 
-![heatsink](../assets/heatsink.png)
+![heatsink](/assets/heatsink.png)
 
 Dragon size sink, without the awful dragon style radiator. There is a generic version and something called _V6DM_ by trianglelab. The latter is 1mm thicker, so pay attention to that, but it should fit in most toolheads, the screw pattern is the same.
 
@@ -50,7 +50,7 @@ Dragon size sink, without the awful dragon style radiator. There is a generic ve
 
 4) nozzle - $3
 
-![nozzle](../assets/nozzle.png)
+![nozzle](/assets/nozzle.png)
 
 I mean you can use any volcano nozzle i guess but I had really nice consistent flow with these ones.
 
