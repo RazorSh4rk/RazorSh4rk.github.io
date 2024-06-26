@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Volcodragon - brute forcing the 3d printer market"
-date: 2024-06-26-22:26:00 +0100
+date: 2024-06-25-00:00:00 +0100
 categories: tutorial
 author: razor
 ---
